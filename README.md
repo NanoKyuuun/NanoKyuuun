@@ -1,5 +1,14 @@
 # 💫 About Me:
-### Halo! 👋 Saya Umar Abdul Aziz<br>Selamat datang di profil GitHub saya! Saya adalah seorang Freelance Web Developer. Saya memiliki ketertarikan yang besar pada pengembangan Website dan machine learning(OTW).<br><br>---<br><br>#### 🔭 Yang Sedang Saya Kerjakan<br><br>* Saat ini saya sedang fokus belajar tentang Vue js.<br><br>#### 🌱 Yang Ingin Saya Pelajari Lebih Lanjut<br><br>* Saya ingin memperlajari Full Stack Ruby on Rails, djanggo, dan saya juga penasaran dengan golang.<br>* Saya sangat ingin mendalami backend dengan tech javascript seperti expres js, dan next js.<br><br>#### 👯 Saya Tertarik untuk Berkolaborasi dalam<br><br>* Proyek-proyek  web development<br>* Inisiatif yang berkaitan dengan backend.
+### Halo! 👋 Saya Umar Abdul Aziz
+Selamat datang di profil GitHub saya! Saya adalah seorang Freelance Web Developer. Saya memiliki ketertarikan yang besar pada pengembangan Website dan machine learning(OTW).
+#### 🔭 Yang Sedang Saya Kerjakan
+* Saat ini saya sedang fokus belajar tentang Vue js.
+#### 🌱 Yang Ingin Saya Pelajari Lebih Lanjut
+* Saya ingin memperlajari Full Stack Ruby on Rails, djanggo, dan saya juga penasaran dengan golang.
+* Saya sangat ingin mendalami backend dengan tech javascript seperti expres js, dan next js.
+#### 👯 Saya Tertarik untuk Berkolaborasi dalam
+* Proyek-proyek  web development
+* Inisiatif yang berkaitan dengan backend.
 
 
 ## 🌐 Socials:
