@@ -1,4 +1,4 @@
-![Header](/header.png)
+![header](https://firebasestorage.googleapis.com/v0/b/storage-ilmukita.appspot.com/o/header.png?alt=media&token=6722ff95-92b3-4997-8ebb-6030f8a54a2e)
 ### Halo! 👋 Saya Umar Abdul Aziz
 Selamat datang di profil GitHub saya! Saya adalah seorang Freelance Web Developer. Saya memiliki ketertarikan yang besar pada pengembangan Website dan machine learning(OTW).
 #### 🔭 Yang Sedang Saya Kerjakan
