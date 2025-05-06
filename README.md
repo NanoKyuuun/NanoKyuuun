@@ -1,4 +1,4 @@
-# 💫 About Me:
+![Header]
 ### Halo! 👋 Saya Umar Abdul Aziz
 Selamat datang di profil GitHub saya! Saya adalah seorang Freelance Web Developer. Saya memiliki ketertarikan yang besar pada pengembangan Website dan machine learning(OTW).
 #### 🔭 Yang Sedang Saya Kerjakan
