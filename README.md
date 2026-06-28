@@ -84,7 +84,7 @@ Kolaborasi: Web Development & Backend Initiatives
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NanoKyuuun&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=NanoKyuuun&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Graph
@@ -97,10 +97,15 @@ Kolaborasi: Web Development & Backend Initiatives
 
 ---
 
-## 🏆 GitHub Trophies
+## ✨ Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NanoKyuuun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Fokus_Saat_Ini-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Express.js_%7C_Laravel-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelance-Web_Developer-00F7FF?style=for-the-badge&logo=freelancer&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Belajar_Selanjutnya-Ruby_on_Rails_%7C_Django_%7C_Golang-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
 
 ---
